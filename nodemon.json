@@ -1,0 +1,7 @@
+{
+  "watch": ["src", ".env"],
+  "ext": "js,json",
+  "ignore": ["node_modules", "README.md"],
+  "legacyWatch": true,
+  "exec": "node src/server.js"
+}
